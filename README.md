@@ -27,7 +27,7 @@ I'm a software engineer specializing in **scalable backend engineering**, cloud-
 🌱 **I’m currently learning:**  
 - **AI/LLMs:** LangChain, RAG, embeddings, model APIs  
 - **Cloud:** AWS (Lambda, ECS, EKS, DynamoDB)  
-- **DevOps:** Kubernetes, Docker, GitHub Actions  
+- **DevOps:** Kubernetes, Docker, GitHub Actions, Gitlab CI/CD  
 - **Courses:** GenAI bootcamps, ML foundations  
 
 💬 **Ask me about:**  
