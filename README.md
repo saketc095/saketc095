@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I'm a software engineer specializing in **scalable backend engineering**, cloud-native microservices, and AI-driven applications. Passionate about **Generative AI, LLMs, and ML**, I enjoy building real-world systems that blend backend engineering with intelligence.
+I am a software engineer specializing in **scalable backend engineering**, cloud-native microservices, and AI-driven applications. Passionate about **Generative AI, LLMs, and ML**, I enjoy building real-world systems that blend backend engineering with intelligence.
 
 🔭 **I’m currently working on:**  
 - AI-powered microservices & cloud-native solutions  
