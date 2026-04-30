@@ -5,39 +5,29 @@
 ---
 
 ## 🚀 About Me
-I am a software engineer specializing in **scalable backend engineering**, cloud-native microservices, and AI-driven applications. Passionate about **Generative AI, LLMs, and ML**, I enjoy building real-world systems that blend backend engineering with intelligence.
+I am a backend engineer focused on building production grade systems using Java and Spring Boot, with hands on experience in cloud native architectures and AI integrated workflows.
 
-🔭 **I’m currently working on:**  
-- AI-powered microservices & cloud-native solutions  
-- LLM apps: RAG systems, vector DBs, prompt engineering  
-- Java + Spring Boot backend projects  
+I work on designing and implementing microservices that handle real world constraints such as latency, fault tolerance, and scalability. My recent work includes building LLM powered systems using retrieval augmented generation, vector databases, and prompt orchestration, with emphasis on response quality and cost efficiency.
 
-👯 **I’m looking to collaborate on:**  
-- GenAI / LLM-based applications  
-- Distributed system architectures  
-- Open-source AI tooling  
+Core engineering focus:
 
-🤝 **I’m looking for help with:**  
-- Advanced LLM training/fine-tuning  
-- Improving RAG workflows  
-- API integrations for AI systems  
+Designing RESTful microservices with Spring Boot, including authentication, rate limiting, and inter service communication
+Building RAG pipelines with embeddings, vector search, and evaluation loops
+Developing cloud native systems on AWS using Lambda, ECS, and DynamoDB
+Implementing containerized deployments with Docker and orchestration basics with Kubernetes
+Setting up CI CD pipelines using GitHub Actions
 
-🌱 **I’m currently learning:**  
-- **AI/LLMs:** LangChain, RAG, embeddings, model APIs  
-- **Cloud:** AWS (Lambda, ECS, EKS, DynamoDB)  
-- **DevOps:** Kubernetes, Docker, GitHub Actions, Gitlab CI/CD  
-- **Courses:** GenAI bootcamps, ML foundations  
+What I care about when building systems:
 
-💬 **Ask me about:**  
-- Java, Spring Boot, Microservices  
-- Cloud-native backend design  
-- AI integration into real applications  
+Clear API contracts and maintainable service boundaries
+Observability through logging and metrics
+Performance optimization using caching and async processing
+Practical tradeoffs between system complexity, cost, and scalability
+
+I am currently deepening my work in LLM systems, distributed backend design, and production ready AI integrations.
 
 📫 **How to reach me:**  
 **LinkedIn:** https://www.linkedin.com/in/saketchinchalikar/
-
-👨‍💻 **All of my projects are available at:**  
-👉 **https://github.com/saketc095**
 
 ---
 
